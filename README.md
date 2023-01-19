@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" height="300" src="https://github.com/0xsyr0/Obsidian-Snippets/blob/main/files/obsidian.png">
+</p>
+
 # Obsidian Snippets
 
 A collection of `Obsidian.md` snippets for generating engagement reports.
