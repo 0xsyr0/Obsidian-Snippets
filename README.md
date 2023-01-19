@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img width="300" height="300" src="https://github.com/0xsyr0/Obsidian-Snippets/blob/main/images/obsidian.png">
 </p>
 
