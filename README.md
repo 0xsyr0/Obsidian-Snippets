@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="https://github.com/0xsyr0/Obsidian-Snippets/tree/main/images/obsidian.png">
+  <img width="300" height="300" src="https://github.com/0xsyr0/Obsidian-Snippets/blob/main/images/obsidian.png">
 </p>
 
 # Obsidian Snippets
