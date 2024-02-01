@@ -6,7 +6,33 @@
 
 A collection of `Obsidian.md` snippets for generating engagement reports.
 
-## Snippet Folder Path
+## Table of Contents
+
+- [Basics]
+	- [Tags](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#tags)
+	- [Snippet Folder Path](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#snippet-folder-path)
+- [Plugins]
+- [Formatting]
+	- [Line Break](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#line-break)
+	- [Multiple Line Breaks](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#multiple-line-breaks)
+	- [Align Text Justified](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#align-text-justified)
+	- [Page Break](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#page-break)
+ - [Templates](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#templates)
+
+## Basics
+
+### Tags
+
+```yaml
+---
+tags:
+  - <TAG>
+  - <TAG>
+  - <TAG>
+---
+```
+
+### Snippet Folder Path
 
 Create a `.css`file like in the following example.
 
@@ -16,13 +42,27 @@ Create a `.css`file like in the following example.
 
 Then enable it in the `Appearance`tab in the settings.
 
-## Line Break
+## Plugins
+
+- Admontion
+- Advanced Tables
+- Better Word Count
+- Code Block Enhancer
+- Editor Syntax Highlight
+- File Explorer Note Count
+- Git
+- Iconize
+- Icons
+
+## Formatting
+
+### Line Break
 
 ```html
 <br/>
 ```
 
-## Multiple Line Break
+### Multiple Line Breaks
 
 ```html
 <pre>
@@ -33,7 +73,7 @@ Then enable it in the `Appearance`tab in the settings.
 </pre>
 ```
 
-## Align Text Justified
+### Align Text Justified
 
 ```css
 /* reading mode */
@@ -49,10 +89,37 @@ Then enable it in the `Appearance`tab in the settings.
 }
 ```
 
-## Page Break
+### Page Break
 
 ```html
 <div style="page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+```
+
+## Templates
+
+## Templates
+
+```c
+![](banner.png)
+
+Tags: #<TAG> #<TAG> #<TAG>
+
+## Table of Contents
+
+- [[#<HEADING_2>]]
+  - [[#<HEADING_3>]]
+  - [[#<HEADING_3>]]
+  - [[#<HEADING_3>]]
+  - [[#<HEADING_3>]]
+- [[#<HEADING_2>]]
+- [[#<HEADING_2>]]
+- [[#<HEADING_2>]]
+
+## <HEADING_2>
+
+### <HEADING_3>
+
+#### <HEADING_4>
 ```
