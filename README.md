@@ -8,11 +8,11 @@ A collection of `Obsidian.md` snippets for generating engagement reports.
 
 ## Table of Contents
 
-- [Basics]
+- [Basics](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#basics)
 	- [Tags](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#tags)
 	- [Snippet Folder Path](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#snippet-folder-path)
-- [Plugins]
-- [Formatting]
+- [Plugins](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#plugins)
+- [Formatting](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#formatting)
 	- [Line Break](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#line-break)
 	- [Multiple Line Breaks](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#multiple-line-breaks)
 	- [Align Text Justified](https://github.com/0xsyr0/Obsidian-Snippets/edit/main/README.md#align-text-justified)
