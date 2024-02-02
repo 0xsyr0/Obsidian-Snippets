@@ -100,9 +100,15 @@ Then enable it in the `Appearance`tab in the settings.
 ## Templates
 
 ```c
-![](banner.png)
+---
+Category: "[[<CATEGORY>]]"
+tags:
+  - <TAG>
+  - <TAG>
+  - <TAG>
+---
 
-Tags: #<TAG> #<TAG> #<TAG>
+![](banner.png)
 
 ## Table of Contents
 
