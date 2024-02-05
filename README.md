@@ -17,6 +17,7 @@ A collection of `Obsidian.md` snippets for generating engagement reports.
 	- [Multiple Line Breaks](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#multiple-line-breaks)
 	- [Align Text Justified](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#align-text-justified)
 	- [Page Break](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#page-break)
+ 	- [Center Images](ttps://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#center-images)
  - [Templates](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#templates)
 
 ## Basics
@@ -95,6 +96,20 @@ Then enable it in the `Appearance`tab in the settings.
 <div style="page-break-after: always; visibility: hidden">
 \pagebreak
 </div>
+```
+
+### Center Images
+
+```css
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+```
+
+```css
+![[image.png | center | 256]]
 ```
 
 ## Templates
