@@ -18,6 +18,7 @@ A collection of `Obsidian.md` snippets for generating engagement reports.
 	- [Align Text Justified](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#align-text-justified)
 	- [Page Break](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#page-break)
  	- [Center Images](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#center-images)
+  	- [Center Headlines](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#center-headlines)
  - [Templates](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#templates)
 
 ## Basics
@@ -110,6 +111,12 @@ img[alt*="center"] {
 
 ```css
 ![[image.png | center | 256]]
+```
+
+### Center Headlines
+
+```c
+<center><h1>TEXT</h1></center>
 ```
 
 ## Templates
