@@ -1,5 +1,5 @@
 <p align="left">
-  <img width="150" height="150" src="https://github.com/0xsyr0/Obsidian-Snippets/blob/main/images/obsidian.png">
+  <img width="150" height="150" src="images/obsidian.png">
 </p>
 
 # Obsidian Snippets
@@ -8,18 +8,18 @@ A collection of `Obsidian.md` snippets for generating engagement reports.
 
 ## Table of Contents
 
-- [Basics](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#basics)
-	- [Tags](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#tags)
-	- [Snippet Folder Path](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#snippet-folder-path)
-- [Plugins](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#plugins)
-- [Formatting](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#formatting)
-	- [Line Break](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#line-break)
-	- [Multiple Line Breaks](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#multiple-line-breaks)
-	- [Align Text Justified](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#align-text-justified)
-	- [Page Break](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#page-break)
- 	- [Center Images](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#center-images)
-  	- [Center Headlines](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#center-headlines)
- - [Templates](https://github.com/0xsyr0/Obsidian-Snippets/blob/main/README.md#templates)
+- [Basics](#basics)
+	- [Tags](#tags)
+	- [Snippet Folder Path](#snippet-folder-path)
+- [Plugins](#plugins)
+- [Formatting](#formatting)
+	- [Line Break](#line-break)
+	- [Multiple Line Breaks](#multiple-line-breaks)
+	- [Align Text Justified](#align-text-justified)
+	- [Page Break](#page-break)
+ 	- [Center Images](#center-images)
+  	- [Center Headlines](#center-headlines)
+ - [Templates](#templates)
 
 ## Basics
 
