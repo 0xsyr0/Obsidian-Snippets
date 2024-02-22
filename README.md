@@ -23,6 +23,12 @@ A collection of `Obsidian.md` snippets for generating engagement reports.
 
 ## Basics
 
+### Shortcuts
+
+| Key Combination | Command |
+| --- | --- |
+| Ctrl+p | Command Prompt Menu |
+
 ### Tags
 
 ```yaml
@@ -55,6 +61,7 @@ Then enable it in the `Appearance`tab in the settings.
 - Git
 - Iconize
 - Icons
+- Table of Contents
 
 ## Formatting
 
