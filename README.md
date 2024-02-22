@@ -25,7 +25,7 @@ A collection of `Obsidian.md` snippets for generating engagement reports.
 
 ### Shortcuts
 
-| Key Combination | Command |
+| Combination | Command |
 | --- | --- |
 | Ctrl+p | Command Prompt Menu |
 
