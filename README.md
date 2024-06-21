@@ -56,7 +56,6 @@ Then enable it in the `Appearance`tab in the settings.
 * Advanced Tables
 * Better Word Count
 * Calendar
-* Code Block Enhancer
 * File Explorer Note count
 * Full Calendar
 * Git
