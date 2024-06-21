@@ -57,7 +57,6 @@ Then enable it in the `Appearance`tab in the settings.
 * Better Word Count
 * Calendar
 * Code Block Enhancer
-* Editor Syntax Highlight
 * File Explorer Note count
 * Full Calendar
 * Git
