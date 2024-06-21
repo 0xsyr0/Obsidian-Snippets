@@ -52,16 +52,22 @@ Then enable it in the `Appearance`tab in the settings.
 
 ## Plugins
 
-- Admontion
-- Advanced Tables
-- Better Word Count
-- Code Block Enhancer
-- Editor Syntax Highlight
-- File Explorer Note Count
-- Git
-- Iconize
-- Icons
-- Table of Contents
+* Admonition
+* Advanced Tables
+* Better Word Count
+* Calendar
+* Code Block Enhancer
+* Editor Syntax Highlight
+* File Explorer Note count
+* Full Calendar
+* Git
+* Iconize
+* Icons
+* Kanban
+* Paste URL into selection
+* Table of Contents
+* TagFolder
+* Tag Wrangler
 
 ## Formatting
 
