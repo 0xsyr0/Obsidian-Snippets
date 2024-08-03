@@ -64,6 +64,7 @@ Then enable it in the `Appearance`tab in the settings.
 * Kanban
 * Paste URL into selection
 * Table of Contents
+	* Automatic Table of Contents (Alternatively)
 * TagFolder
 * Tag Wrangler
 
