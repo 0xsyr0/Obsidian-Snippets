@@ -44,7 +44,7 @@ tags:
 
 Create a `.css`file like in the following example.
 
-```console
+```
 .obsidian/snippets/<SNIPPET_NAME>.css
 ```
 
@@ -127,13 +127,13 @@ img[alt*="center"] {
 
 ### Center Headlines
 
-```console
+```
 <center><h1>TEXT</h1></center>
 ```
 
 ## Templates
 
-```console
+```
 ---
 Category: "[[<CATEGORY>]]"
 tags:
